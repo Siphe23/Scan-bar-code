@@ -23,9 +23,12 @@ Here's a screenshot of the final design:
 ![QR Code Component Screenshot](./src/images/Screenshot%202024-10-17%20004802.png)
 
 ## My Process
-## Links
+### Repo
 https://github.com/Siphe23/Scan-bar-code.git
+
 ### Built With
+### Links
+https://scan-bar-code.vercel.app/
 
 - **React.js** for building the component
 - Semantic HTML5 markup
