@@ -23,7 +23,8 @@ Here's a screenshot of the final design:
 ![QR Code Component Screenshot](./src/images/Screenshot%202024-10-17%20004802.png)
 
 ## My Process
-
+## Links
+https://github.com/Siphe23/Scan-bar-code.git
 ### Built With
 
 - **React.js** for building the component
